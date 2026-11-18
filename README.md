@@ -137,14 +137,13 @@ Each karigar works for several jewellers, so every karigar onboarded brings in t
 
 | Dates | Milestone |
 |---|---|
-| Now – 23 Nov | Field interviews with jewellers and karigars ([notes](docs/field-interviews.md)) |
 | 23 – 30 Nov | Flutter app, weight engine, issue / return / confirm flows, offline sync |
 | 1 – 7 Dec | Kannada and Hindi voice, scale-photo reading, WhatsApp confirmations |
 | 8 – 15 Dec | Deadline, reconcile, dispute and payment agents; pilot with one shop; demo script |
 
 ## Team
 
-Igniteex 
+Team Igniteex · Sri Krishna College of Engineering and Technology
 
 - Hemesh Prasad S: Team Lead & Developer
 - Karthik S: Research
